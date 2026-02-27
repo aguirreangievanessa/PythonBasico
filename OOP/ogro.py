@@ -6,3 +6,4 @@ class ogro(enemigo):
 
         def habla(self):
             print("Ogro aplasta todo!!!")
+            
